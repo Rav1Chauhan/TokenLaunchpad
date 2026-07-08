@@ -28,7 +28,7 @@ function App() {
             style={{
               display: "flex",
               justifyContent: "space-between",
-              padding: 20,
+              padding: 20
             }}
           >
             <WalletMultiButton />
